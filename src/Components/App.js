@@ -8,8 +8,8 @@ function App() {
   return (
     <div>
       <Header />
-      {/*<AddContact />
-      <ContactList /> 8*/}
+      <AddContact />
+   
     </div>
   );
 }
